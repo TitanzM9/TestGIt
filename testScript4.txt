@@ -1,1 +1,5 @@
 New feature created by MasterMind
+
+timeout=60
+    if
+        then ()
